@@ -8,7 +8,7 @@
 </head>
 <body>
     <form action="funcao.php" method="get">
-        <label>Informe os números presentes no array.</label>
+        <label>Informe os números presentes no array separados por vírgula e espaço.</label>
         <input type="text" name="numeros">
         <button type="submit">Verificar</button>
     </form>
